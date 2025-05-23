@@ -1,1 +1,8 @@
-print("pakistan ki ma ka bhosda")
+def hello():
+    """
+    this is a demo.
+    """
+    return "PKMKB"
+
+
+hello()
